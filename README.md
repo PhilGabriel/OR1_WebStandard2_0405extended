@@ -14,8 +14,8 @@
 <ul>.js: (Für eventuell weitere Arbeiten - Aktuell nicht in Verwendung)
 <li>app.js (Für eigenen Code - Aktuell nicht in Verwendung)</li>
 <ul> vendor 
-<li> foundation.js (Anpassungen durch die foundation.js am Framework - Aktuell nicht in Verwendung)
+<li> foundation.js (Anpassungen durch die foundation.js am Framework)
 <li> foundation.min.js (s.O.)
-<li> jquery.js (Eingebundenes jquery - Aktuell nicht in Verwendung)
-<li> what-input.js (Plugin - Aktuell nicht in Verwendung)
+<li> jquery.js (Eingebundenes jquery)
+<li> what-input.js (Plugin)
 </ul></ul>
