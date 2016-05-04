@@ -10,6 +10,11 @@
    * 2. Prevent iOS and IE text size adjust after device orientation change,
    *    without disabling user zoom.
    */
+/* =========== */
+/* Import App.css */
+@import "app.css";
+/* ============= */
+
 html {
   font-family: sans-serif;
   /* 1 */
