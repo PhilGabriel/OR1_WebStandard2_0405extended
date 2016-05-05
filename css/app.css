@@ -2,7 +2,7 @@
 border-bottom: 1px solid blue;
 margin-bottom: 5%;}
 .blog-post {margin-top: 8%;}
-body {
+.main {
     background: rgba(254,254,254,1);
 background: -moz-linear-gradient(left, rgba(254,254,254,1) 0%, rgba(204,204,204,1) 51%, rgba(0,0,0,1) 98%, rgba(0,0,0,1) 100%);
 background: -webkit-gradient(left top, right top, color-stop(0%, rgba(254,254,254,1)), color-stop(51%, rgba(204,204,204,1)), color-stop(98%, rgba(0,0,0,1)), color-stop(100%, rgba(0,0,0,1)));
