@@ -21,7 +21,8 @@
 
 /* Import App.css */
 
-@import "app.css";
+@import url("app.css");
+
 
 /* ============= */
 
