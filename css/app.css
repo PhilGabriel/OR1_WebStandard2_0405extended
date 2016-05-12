@@ -3,3 +3,7 @@
 border-bottom: 1px solid blue;
 margin-bottom: 5%;}
 .blog-post {margin-top: 8%;}
+
+dl, dt, dd {display: inline;}
+
+.metadaten * {display: inline !important;}
