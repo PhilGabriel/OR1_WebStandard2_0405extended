@@ -4,7 +4,9 @@
 
 border-bottom: 1px solid blue;
 margin-bottom: 5%;}
-.blog-post {}
+.blog-post {
+  content:normal;
+}
 
 dl, dt, dd {display: inline;}
 
