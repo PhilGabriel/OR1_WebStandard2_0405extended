@@ -629,6 +629,7 @@ b {
 small {
     font-size: 80%;
     line-height: inherit;
+    margin-top: 1%;
 }
 
 h1,
@@ -654,7 +655,8 @@ h4 small,
 h5 small,
 h6 small {
     color: #cacaca;
-    line-height: 0;
+    line-height: 3em;
+    margin-top: 1%;
 }
 
 h1 {
@@ -817,7 +819,7 @@ kbd {
     margin-bottom: 0.5rem;
     font-weight: normal;
     line-height: 1.4;
-    color: #8a8a8a;
+    color: #CACACA;
 }
 
 .lead {
@@ -2623,7 +2625,7 @@ select[multiple] {
     position: relative;
     color: #0a0a0a;
     background-color: white;
-    
+
 }
 
 .callout >:first-child {
