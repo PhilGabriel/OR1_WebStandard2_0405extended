@@ -1,17 +1,32 @@
-.callout.primary {background: #466368;
-  background: linear-gradient(to right bottom, #70968d, #324c61);
-  border-radius: 6px;
+.callout.primary {
+    background: #466368;
+    background: linear-gradient(to right bottom, #70968d, #324c61);
+    border-radius: 6px;
+    border-bottom: 1px solid blue;
+    margin-bottom: 5%;
+}
 
-border-bottom: 1px solid blue;
-margin-bottom: 5%;}
-.blog-post {}
+.blog-post:hover *,
+.blog-post:hover {
+    background-color: #FFF8eF;
+}
 
-dl, dt, dd {display: inline;}
+dl,
+dt,
+dd {
+    display: inline;
+}
 
-.metadaten * {display: inline !important;}
-.textformat {hyphens: auto;
-    text-align: justify;}
+.metadaten * {
+    display: inline !important;
+}
+
+.textformat {
+    hyphens: auto;
+    text-align: justify;
+}
+
 .thumbnail {
-  width: 100%;
-  height: 100%;
+    width: 100%;
+    height: 100%;
 }

@@ -19,10 +19,6 @@
 /* =========== */
 
 
-
-
-
-
 /* ============= */
 
 html {
@@ -2625,7 +2621,6 @@ select[multiple] {
     position: relative;
     color: #0a0a0a;
     background-color: white;
-
 }
 
 .callout >:first-child {
