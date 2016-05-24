@@ -4,18 +4,17 @@
     border-radius: 6px;
     border-bottom: 1px solid blue;
     margin-bottom: 5%;
-}
+} /* Leiste am Kopf des Dokuments angepasst: Hintergrundfarbe(callback) und linearer Verlauf */
 
 
-.blog-post:hover *,
-.blog-post:hover {
-    background-color: #FFF8eF;
+.blog-post:not(.simple):hover  {
+    background-color: rgba(205,205,244,0.2); } /* Klasse ".blog-post", sowie alle Klassen die hinter ihm kommen sollen beim Mouse-Over die Hintergrundfarbe ändern */
 
 .blog-post {
   content:normal;
-  border-bottom: 1px solid blue;
-  margin-bottom: 5%;}
-}
+  border: 1px solid rgba(0,0,255,0.2) !important;
+  margin-bottom: 15px;} /* Die Klasse soll einen feinen Rahmen haben */
+
 
 dl,
 dt,

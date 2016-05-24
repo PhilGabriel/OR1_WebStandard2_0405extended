@@ -2620,7 +2620,7 @@ select[multiple] {
     border-radius: 0;
     position: relative;
     color: #0a0a0a;
-    background-color: white;
+    background-color: inherit;
 }
 
 .callout >:first-child {
