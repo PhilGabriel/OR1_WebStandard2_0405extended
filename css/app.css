@@ -8,7 +8,7 @@
 
 
 .blog-post:not(.simple):hover  {
-    background-color: rgba(205,205,244,0.2); } /* Klasse ".blog-post", sowie alle Klassen die hinter ihm kommen sollen beim Mouse-Over die Hintergrundfarbe ändern */
+    background-color: rgba(205,205,244,0.2); } /* Klasse ".blog-post", sowie alle Klassen die hinter ihm kommen sollen beim Mouse-Over die Hintergrundfarbe ändern um die Überlagerung von Klassen zu verhindern, wurde die Klasse .simple mit einem NOT aus der Hover-Selection ausgegliedert */
 
 .blog-post {
   content:normal;
@@ -35,3 +35,8 @@ dd {
     width: 100%;
     height: 100%;
 }
+
+.meier{background-image: url(../img/meier.jpg);height:50vh; background-repeat:no-repeat}
+.reed{background-image: url(../img/reed.jpg); height:50vh; background-repeat:no-repeat}
+.ross{background-image: url(../img/ross.jpg);
+height:50vh; background-repeat:no-repeat}
